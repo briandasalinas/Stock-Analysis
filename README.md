@@ -1,8 +1,11 @@
 # Stock-Analysis
 ## Overview 
-We created a macro to help our friend Steve analysis the preformance of the Stock DQ that his parents bought.
+We created a macro to help our friend Steve analyze the preformance of the Stock DAQO New Energy Corp that his parents recently bought. Steve's parents want to invest in green energy therefore bought stock for DAQO but, Steve wants to see help his parent diversify into other green energy stocks.
+
 ### Purpose 
-Using the macro created, we are able to filter through the data to analysis the preformance of different stocks. We are able to compare the preformance of the stock DQ to the other stocks and see it's value.
+Using the macro created, we are able to filter through the data to analysis the preformance of different green energy stocks. We are able to compare the preformance of the stock DAQO New Energy Corp, ticker label DQ, to the other stocks and see it's performance.
+
+
 ## Results
 Focusing on helping Steve, we can see that the stock DQ had a very successful return in 2017. 
 
