@@ -29,4 +29,7 @@ Here we have the difference in time from the original macro to the rebooted macr
 
 ## Summary 
 
-The stock Steve's Parents choose did the preformed the best in the year 2017 yet it too a sharp turn in the year 2018. Stock DQ being in the negatives is a bad sign to keep investing in said stock. We could reccomend to invest in the stock ENPH since it has the most successful preformance of all the other stocks. ENPH had a whopping 130% return in 2017 and a 82% return in 2018.
+The stock Steve's Parents chose did preform the best in 2017 yet, it did not keep that title in 2018. Stock DQ taking such a big dip is a bad sign to keep investing in said stock. We could reccomend Steve's parents to invest in the stock ENPH since it has the most successful preformance of all the other stocks. ENPH had a whopping 130% return in 2017 and a 82% return in 2018.
+
+Our original macro helped our friend Steve compare the dozen green energy stocks just like we wanted. Our end goal was for Steve to be able to use this code for any data he might come across. Refactoring our code made it run more efficently as well as making it easier for our friend Steve to manage it. 
+While refactoring though, I came across new bugs and had to keep working on fixing new bugs that kept arising. It took some time for me to create a code that was able to run. The end goal was achieved nonetheless but, there were some bumps in the road.
